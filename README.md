@@ -1,15 +1,16 @@
 # Simone Licitra - Personal Cybersecurity Blog
 
-Personal website and blog for Simone Licitra, a cybersecurity specialist and penetration tester.
+Personal website and blog for Simone Licitra, a Red Team Specialist, penetration tester, and AI/LLM security researcher.
 
 ## About
 
-This site showcases my professional background, certifications, and shares insights on cybersecurity topics including penetration testing, red team operations, and security research.
+This site showcases my professional background, certifications, projects, and research across red team operations, penetration testing, AI/LLM security, security automation, and vulnerability research.
 
 ## Certifications
 
 - OSCP (Offensive Security Certified Professional)
 - CRTO (Certified Red Team Operator)
+- CRTL (Certified Red Team Lead)
 - CPTS (Certified Penetration Testing Specialist)
 - And more...
 
@@ -28,10 +29,11 @@ This site showcases my professional background, certifications, and shares insig
 
 ## Visit
 
-The site is live at: [https://r08t.github.io](https://r08t.github.io)
+The site is live at: [https://licitrasimone.github.io](https://licitrasimone.github.io)
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/simone-licitra-009b8490/)
 - [GitHub](https://github.com/licitrasimone)
+- [Medium](https://medium.com/@simone.licitra)
 - [Hack The Box](https://app.hackthebox.com/profile/2085160)
