@@ -8,11 +8,16 @@ This site showcases my professional background, certifications, projects, and re
 
 ## Certifications
 
-- OSCP (Offensive Security Certified Professional)
-- CRTO (Certified Red Team Operator)
-- CRTL (Certified Red Team Lead)
-- CPTS (Certified Penetration Testing Specialist)
-- And more...
+- CRTL (Certified Red Team Lead) — Zero-Point Security, June 2026
+- PAPA (Practical AI Pentest Associate) — TCM Security, February 2026
+- CRTO (Certified Red Team Operator) — Zero-Point Security, December 2025
+- CPTS (Certified Penetration Testing Specialist) — Hack The Box, June 2025
+- Offensive Pentesting — TryHackMe, September 2024
+- OSCP (Offensive Security Certified Professional) — OffSec, August 2024
+- Certified Associate Cybersecurity — Fortinet, June 2024
+- Jr Penetration Tester — TryHackMe, January 2024
+- Ethical Hacking Essentials (EHE) — EC-Council, April 2023
+- Cybersecurity Essentials — Cisco, January 2022
 
 ## Features
 

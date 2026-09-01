@@ -311,6 +311,16 @@ body {
     box-shadow: 0 10px 30px rgba(8, 145, 178, 0.3);
 }
 
+.badge-crtl {
+    background: linear-gradient(135deg, #7c2d12, #f97316);
+    box-shadow: 0 10px 30px rgba(249, 115, 22, 0.3);
+}
+
+.badge-papa {
+    background: linear-gradient(135deg, #4f46e5, #22d3ee);
+    box-shadow: 0 10px 30px rgba(79, 70, 229, 0.3);
+}
+
 .badge:hover {
     transform: translateY(-5px) scale(1.05);
     box-shadow: 0 15px 40px rgba(0, 255, 159, 0.4);
@@ -801,6 +811,7 @@ section {
 }
 
 .cert-badge.red-team { background: rgba(168, 85, 247, 0.2); color: #c084fc; }
+.cert-badge.ai-security { background: rgba(79, 70, 229, 0.2); color: #22d3ee; }
 .cert-badge.pentesting { background: rgba(8, 145, 178, 0.2); color: #06b6d4; }
 .cert-badge.offensive { background: rgba(255, 56, 100, 0.2); color: #ff6b9d; }
 .cert-badge.oscp { background: rgba(220, 38, 38, 0.2); color: #ef4444; }
